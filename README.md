@@ -25,7 +25,7 @@ Empowering nomadic merchants to make smart packing decisions using the classic 0
 ## 🔧 How to Run
 
 Make sure you have:
-- Java 17+ (or your current version Corretto 21 is fine ✅)
+- Java 17+ 
 - IntelliJ IDE (or any Java IDE)
 - Maven configured
 
